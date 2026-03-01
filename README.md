@@ -1,2 +1,1 @@
-# miniproject
 Testing CI/CD
